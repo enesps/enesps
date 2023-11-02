@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Kotlin<br>💬 Ask me about Android, Java, Kotlin<br>📫 How to reach me pusaenes@gmail.com<br>🔭 You can look my Bio at https://enesps.github.io/<br><br>
+🌱 I’m currently learning Swift<br>💬 Ask me about Swift<br>📫 How to reach me pusaenes@gmail.com<br>🔭 You can look my Bio at https://enesps.github.io/<br><br>
 ---
 [![](https://visitcount.itsvg.in/api?id=enesps&icon=0&color=0)](https://visitcount.itsvg.in)
 
