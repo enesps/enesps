@@ -7,7 +7,8 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/enesps/?utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/enes-pusa-5908511bb/) 
-<h2 align="left">Connect with me:</h2>
+
+ ## Connect with me:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/enes-pusa-5908511bb/" target="blank">
