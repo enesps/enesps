@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Enes Pusa<br><br>I am currently a fourth-year Computer Engineering student at Marmara University. I have experience in application development using Swift, Java, Kotlin, Python, and SQL, as well as knowledge in backend technologies. My current focus is on becoming an IOS Developer.<br>
+<h5>Hi 👋, I'm Enes Pusa<h5><br><br>I am currently a fourth-year Computer Engineering student at Marmara University. I have experience in application development using Swift, Java, Kotlin, Python, and SQL, as well as knowledge in backend technologies. My current focus is on becoming an IOS Developer.<br>
 
 
 ## 🌐 Socials:
