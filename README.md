@@ -30,8 +30,6 @@
 <div style="display: flex">
 <div>
 <img style="width: 75%;" src="https://github-profile-trophy.vercel.app/?username=enesps&row=1" alt="enesps" />  
-  
-<img style="width: 23%; padding-left: 5px" src="https://github-readme-stats.vercel.app/api/top-langs?username=enesps&show_icons=true&locale=en&layout=compact" alt="enesps" />
 
 </div>
 <br>
