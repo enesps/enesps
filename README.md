@@ -26,7 +26,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=enesps&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=enesps&theme=dark&hide_border=true)
-<b>My GitHub Stats</b>
 <div style="display: flex">
 <div>
 <img style="width: 75%;" src="https://github-profile-trophy.vercel.app/?username=enesps&row=1" alt="enesps" />  
