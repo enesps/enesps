@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Enes Pusa</h1>
 
-<br><br>I am currently a fourth-year Computer Engineering student at Marmara University. I have experience in application development using Swift, Java, Kotlin, Python, and SQL, as well as knowledge in backend technologies. My current focus is on becoming an IOS Developer.<br>
+<br><br>Hello! I’m a iOS developer specializing in mobile application development with a focus on Apple's iOS platform. I have a strong foundation in Swift programming and am proficient in using the UIKit framework. I’m also actively expanding my skill set with SwiftUI to stay current with the latest advancements in iOS technology. My goal is to leverage my expertise to create intuitive and engaging mobile applications.<br>
 
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/enesps/?utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/enes-pusa-5908511bb/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/enesps/?utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enes-pusa-5908511bb/) 
 
  ## Connect with me:
 
